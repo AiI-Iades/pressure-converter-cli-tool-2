@@ -1,2 +1,1 @@
-# pressure-converter-cli-tool-2
-CLI tool for converting pressure units (Pa, atm, bar, kPa, psi)
+# Pressure Converter CLI\nConvert between common pressure units like pascals (Pa), atmospheres (atm), bars (bar), kilopascals (kPa), and pounds per square inch (psi).\n\nUsage: `pressure-converter <value> <from-unit> <to-unit>`\nExample: `pressure-converter 1 atm bar`
